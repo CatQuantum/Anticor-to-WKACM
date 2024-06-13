@@ -7,4 +7,5 @@ Python implementation of the anticor algorithm originally published by Borodin, 
 Based on the AC algorithm, two new algorithms have been proposed. For more details, please visit [my notes](https://github.com/CatQuantum/Anticor-to-WKACM/blob/master/From%20AC%20to%20WKACM.md) or the flowing papers.
 
 Nkomo, R., & Kabundi, A. (2013). Kalman filtering and online learning algorithms for portfolio selection. Technical report.
+
 Chu, G., Zhang, W., Sun, G., & Zhang, X. (2019). A new online portfolio selection algorithm based on Kalman Filter and anti-correlation. Physica A: Statistical Mechanics and its Applications, 536, 120949.
