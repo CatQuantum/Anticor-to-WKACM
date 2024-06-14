@@ -1,6 +1,8 @@
 ### 1. The Anticor Algorithm
 
-W-KMAC算法是对Antior (AC)算法的改进，因此我在本节中先对AC算法进行介绍。
+![image-20240614163757339](./assets/image-20240614163757339.png)
+
+W-KMAC算法是对Antior (AC)算法的改进，其改进内容如上图所示。因此我在本节中先对AC算法进行介绍。
 
 下面是对本节中符号的描述。
 
